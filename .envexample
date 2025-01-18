@@ -4,4 +4,4 @@ GROQ_API_KEY=ADD_KEY_HERE
 LANGCHAIN_TRACING_V2=true
 LANGCHAIN_ENDPOINT=https://api.smith.langchain.com
 LANGCHAIN_API_KEY=""
-LANGCHAIN_PROJECT="02-Advanced-Chatbot"
+LANGCHAIN_PROJECT="09-Key_data_extraction"
